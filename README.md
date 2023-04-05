@@ -13,4 +13,4 @@
 <p>Este projeto é um exemplo simples, mas completo, de como criar um aplicativo que usa a API da OpenWeather para fornecer informações precisas sobre o clima atual de 
 qualquer cidade do mundo. Esperamos que este projeto tenha sido útil para você e que possa ser usado como base para outros projetos mais complexos.</p>
 
-<h3>Página: https://luizaz3vedo.github.io/Clima-React/<h3>
+<h3>Página: https://luizaz3vedo.github.io/Clima-React/</h3>
